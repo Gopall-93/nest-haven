@@ -30,7 +30,7 @@ nest-haven/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/nest-haven.git
+git clone https://github.com/Gopall-93/nest-haven.git
 cd nest-haven
 
 2. Backend Setup (backend/)
